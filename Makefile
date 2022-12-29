@@ -1,4 +1,4 @@
-SHELL := /bin/bash
+SHELL := /bin/sh
 
 build:
 	CGO_ENABLED=0 go build
